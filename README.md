@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Conversor de Moedas converte de forma manual (não dinâmica) o valor da cotação do dólar em real e mostra através de um alert simples os valores convertidos.
 
-- [ Visite o projeto online ]()
+- [ Visite o projeto online ](https://lipeharakawa.github.io/conversor_moedas-html-css-js)
 
 ## 🔖 Layout
 
