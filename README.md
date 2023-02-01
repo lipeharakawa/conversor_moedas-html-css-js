@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Conversor de Moedas converte de forma manual (não dinâmica) o valor da cotação do dólar em real e mostra através de um alert os valores convertidos.
+O Conversor de Moedas converte de forma manual (não dinâmica) o valor da cotação do dólar em real e mostra através de um alert simples os valores convertidos.
 
 - [ Visite o projeto online ]()
 
