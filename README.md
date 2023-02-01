@@ -18,7 +18,7 @@ Imersão Dev é um evento exclusivo e gratuito, promovido pela Alura para ensino
 <br>
 
 <p align="center">
-  <img alt="projeto Conversor Moedas" src=".github/preview.jpg" width="100%">
+  <img alt="Foto projeto Conversor de Moedas" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
