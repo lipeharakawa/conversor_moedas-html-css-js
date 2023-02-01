@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com 🧡 por Felipe Seidi Harakawa 👋.
+Feito com 🧡 por Alura [ Participe da comunidade! ](https://www.alura.com.br)
