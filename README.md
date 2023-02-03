@@ -38,7 +38,7 @@ O Conversor de Moedas converte de forma manual (não dinâmica, fazer necessári
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através de [ DESSE LINK ](https://codepen.io/imersao-dev/pen/BapaBPO). É necessário ter conta no [ CodePen ](https://codepen.io/accounts/signup/user/free) para acessá-lo.
+Você pode visualizar o layout base do projeto através de [ DESSE LINK ](https://codepen.io/imersao-dev/pen/BapaBPO). É necessário ter conta no [ CodePen ](https://codepen.io/accounts/signup/user/free) para acessá-lo.
 
 ## ✅ Licença
 
