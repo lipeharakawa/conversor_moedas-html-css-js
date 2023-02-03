@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com 🧡 por Felipe Seidi Harakawa, durante o evento Imersão Dev da Alura. [ Participe da comunidade! ](https://www.alura.com.br)
+Feito com 🧡 por Felipe Seidi Harakawa, durante o evento Imersão Dev da Alura. [ Visite o site! ](https://www.alura.com.br)
